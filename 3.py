@@ -1,5 +1,9 @@
 #!/usr/bin/env python
+
 # Python 3 required
+# THIS TAKES WAAAAY TO LONG. ONLY SOLVED IT BY LETTING IT RUN
+# OVERNIGHT ACCIDENTALLY :/
+
 import locale
 import sys
 import math
