@@ -8,8 +8,8 @@ sum = 0
 first = 1
 second = 2
 
-print first
-print second
+print(first)
+print(second)
 
 while True: 	
 	third = first + second
@@ -27,6 +27,6 @@ while True:
 	if second > 4000000:
 		break
 
-	print output	
+	print(output)
 
-print sum + 2		# include the first term
+print(sum + 2)		# include the first term
