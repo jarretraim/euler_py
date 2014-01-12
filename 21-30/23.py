@@ -3,7 +3,7 @@ from __future__ import print_function
 
 import sys
 
-# DONE?
+# WRONG
 # Sum of 24632 numbers that cannot be expressed as the sum of two abundant numbers: 346398923
 
 

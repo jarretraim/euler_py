@@ -3,7 +3,7 @@ from __future__ import print_function
 
 import sys
 
-# DONE? 
+# WRONG
 # Sum of 15 amicable numbers: 40284
 
 
