@@ -4,6 +4,7 @@ from __future__ import print_function
 import sys
 
 # DONE (525)
+# This is wrong.
 
 def terms_in_chain(start):
 	terms = 1
